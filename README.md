@@ -11,3 +11,7 @@ Game logic: You can only take from one row at the time. For instance you can tak
 Q-learning is a reinforcement learning algorithm, where the agent assigns a value for each action it might take.
 
 In this project I implemented Q-learning algorithm for this Nim game.
+
+In the file nim.py is the game itself and the q-learning algorithm to teach the game to AI bot.
+
+play.py is file which is used to play the game. As of now the game is played in command line.
